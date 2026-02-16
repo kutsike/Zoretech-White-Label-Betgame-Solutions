@@ -1,11 +1,11 @@
-# 🏆 ZuraTech | Next-Gen Enterprise Betting Infrastructure (v2026)
+# 🏆 ZoreTech | Next-Gen Enterprise Betting Infrastructure (v2026)
 
 ![Version](https://img.shields.io/badge/version-3.0.0-00ff9d.svg)
 ![React](https://img.shields.io/badge/Frontend-React%2019-blue.svg)
 ![Node](https://img.shields.io/badge/Backend-Node.js%20%26%20TypeScript-green.svg)
 ![License](https://img.shields.io/badge/License-White--Label-7000ff.svg)
 
-**ZuraTech** is a high-performance, modular, and white-label betting & casino infrastructure built for 2026 industry standards. Unlike legacy PHP scripts, ZuraTech utilizes a modern **React + Node.js + PostgreSQL** stack to provide sub-second latency and military-grade security.
+**ZoreTech** is a high-performance, modular, and white-label betting & casino infrastructure built for 2026 industry standards. Unlike legacy PHP scripts, ZuraTech utilizes a modern **React + Node.js + PostgreSQL** stack to provide sub-second latency and military-grade security.
 
 ---
 
@@ -59,7 +59,7 @@ We don't just sell code; we provide a **Managed Technology Partnership**.
 
 | Desktop Interface | Mobile PWA View |
 | :---: | :---: |
-| ![Desktop Preview](https://placehold.co/600x400/111827/00ff9d?text=Desktop+Admin+Panel) | ![Mobile Preview](https://placehold.co/200x400/111827/00ff9d?text=Mobile+App+UI) |
+| ![Desktop Preview](https://spyhackerz.org/forum/attachments/1771009535322-png.45453/) | (https://spyhackerz.org/forum/attachments/1771009743296-png.45455/)
 
 ---
 
@@ -67,9 +67,9 @@ We don't just sell code; we provide a **Managed Technology Partnership**.
 
 Ready to dominate the market? Let's build your empire together.
 
-📩 **Telegram:** [@YourTelegramHandle]  
-📧 **Email:** [contact@zuratech.io]  
-🌐 **Website:** [https://zuratech.io]
+📩 **Telegram:** [@zoretech]  
+📧 **Email:** [contact@ZoreTech.io]  
+🌐 **Website:** [https://zoretech.io]
 
 ---
 *Disclaimer: This software is intended for use in regulated jurisdictions only. The operator is responsible for local licensing and legal compliance.*
