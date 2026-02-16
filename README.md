@@ -68,7 +68,7 @@ We don't just sell code; we provide a **Managed Technology Partnership**.
 Ready to dominate the market? Let's build your empire together.
 
 📩 **Telegram:** [@zoretech]  
-📧 **Email:** [contact@ZoreTech.io]  
+📧 **Email:** [info@ZoreTech.io]  
 🌐 **Website:** [https://zoretech.io]
 
 ---
